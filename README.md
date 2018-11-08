@@ -1,2 +1,0 @@
-# akash
-teaching me git
